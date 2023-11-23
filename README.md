@@ -9,8 +9,22 @@ TONG Yuyang (13335950)
 Application link: https://user-management-system-qj8p.onrender.com
 
 ********************************************
+# deploy in local:
+npm install
+
+npm start
+
+it will show a console log: `App listeing on port 8099'
+
+open browser, insert 'localhost:8099/login'
+
+********************************************
+
+********************************************
 # Login
 user must first register before they can login
+
+
 
 
 After successful login, userid is stored in seesion.
